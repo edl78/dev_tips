@@ -14,3 +14,8 @@
 - hit F1 and choose "Remote-Containers: Attach to running container..."
 - done. Open a file and start debugging with F5 or other means. Enjoy!
 - Known issue: if VsCode Python plugin fails to start debug, install an older version, 22.6.0 works for example.
+
+
+# Academic citation
+
+Please see the [main webpage](https://openweeds.linkoping-ri.se/howtocite.html) for information on how to cite.
